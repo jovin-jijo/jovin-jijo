@@ -12,7 +12,7 @@ and picking up new tools as projects demand them.
 
 | | |
 | :--- | :--- |
-| getting comfortable with | C++, Swift, React.js |
+| currently studying | C++, Swift, React.js |
 | use regularly | Python, JavaScript, HTML/CSS |
 | exploring | distributed systems, ML fairness, IoT/hardware |
 | tools | Git, VS Code, Xcode |
@@ -33,7 +33,7 @@ shrinkflation. My first real hardware project — teaching myself C++ firmware a
 using your hourly wage. Learning React and mapping APIs through this one.
 
 **Autonomous Magnetic Chessboard** — A physical board that moves its own pieces via a CoreXY
-gantry and Raspberry Pi. The most ambitious thing I've attempted — collision avoidance algorithm
+gantry and Raspberry Pi. The most ambitious thing I've attempted — a collision avoidance algorithm
 is the hard part.
 
 **Raspberry Pi Cluster** — 3 nodes running K3s, used to run Monte Carlo simulations across
