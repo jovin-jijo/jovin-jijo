@@ -12,10 +12,10 @@ and picking up new tools as projects demand them.
 
 | | |
 | :--- | :--- |
-| currently studying | C++, Swift, React.js |
-| use regularly | Python, JavaScript, HTML/CSS |
-| exploring | distributed systems, ML fairness, IoT/hardware |
-| tools | Git, VS Code, Xcode |
+| Currently studying | C++, Swift, React.js |
+| Use regularly | Python, JavaScript, HTML/CSS |
+| Exploring | distributed systems, ML fairness, IoT/hardware |
+| Tools | Git, VS Code, Xcode |
 
 ---
 
