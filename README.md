@@ -49,14 +49,6 @@ I don't have it all figured out, but I'm the kind of person who builds things to
 
 ---
 
-### Stats
-
-[![Jovin's Stats](https://github-readme-stats.vercel.app/api?username=jovin-jijo&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/jovin-jijo)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jovin-jijo&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/jovin-jijo)
-
----
-
 ### Find me
 
 - [jovin-jijo.github.io](https://jovin-jijo.github.io)
