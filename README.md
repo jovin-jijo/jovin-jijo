@@ -41,14 +41,6 @@ cores simultaneously. Started this to actually understand what distributed compu
 
 ---
 
-### What I'm thinking about
-
-I'm interested in problems where systems thinking and economic reasoning overlap — auditing
-models for bias, building hardware that reacts to real data, simulating markets from scratch.
-I don't have it all figured out, but I'm the kind of person who builds things to find out.
-
----
-
 ### Find me
 
 - [jovin-jijo.github.io](https://jovin-jijo.github.io)
