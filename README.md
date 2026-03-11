@@ -1,6 +1,6 @@
 # Hi, I'm Jovin Jijo
 
-🌐 **[jovin-jijo.github.io](https://jovin-jijo.github.io)**
+**[Portfolio](https://jovin-jijo.github.io)**
 
 I'm a 14-year-old developer interested in how computational tools can model, audit, and solve real-world economic problems.
 
