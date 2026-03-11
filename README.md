@@ -23,7 +23,7 @@ and picking up new tools as projects demand them.
 
 These are works in progress — I'm building them to learn, not to claim I already know everything.
 
-**[Algorithmic Fairness Audit Tool](https://jovin-jijo.github.io/algorithmic-fairness-audit)** — A Python tool to audit ML models for bias using real mortgage data. Learning about Disparate Impact and how debiasing algorithms work.
+**[Algorithmic Fairness Audit Tool](<a href="https://jovin-jijo.github.io/algorithmic-fairness-audit" target="_blank">Algorithmic Fairness Audit Tool</a>)** — A Python tool to audit ML models for bias using real mortgage data. Learning about Disparate Impact and how debiasing algorithms work.
 
 **Shrinkflation Tracker** — An ESP32-based device that measures product density and flags shrinkflation. My first real hardware project — teaching myself C++ firmware and Flask as I go.
 
