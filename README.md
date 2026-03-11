@@ -1,5 +1,7 @@
 # Hi, I'm Jovin Jijo
 
+🌐 **[jovin-jijo.github.io](https://jovin-jijo.github.io)**
+
 I'm a 14-year-old developer interested in how computational tools can model, audit, and solve real-world economic problems.
 
 I started with JavaScript and Python, then pushed myself into C++ to understand what's actually happening at the memory level. I'm currently learning Swift for iOS development and picking up new tools as projects demand them.
@@ -34,9 +36,3 @@ Building these to learn, not to claim I already know everything.
 **Autonomous Magnetic Chessboard** — A physical board that moves its own pieces via a CoreXY gantry and Raspberry Pi. The most ambitious thing I've attempted — collision avoidance algorithm is the hard part.
 
 **Raspberry Pi Cluster** — 3 nodes running K3s, used to run Monte Carlo simulations across cores simultaneously. Started this to actually understand what distributed computing means.
-
----
-
-### Find me
-
-- [jovin-jijo.github.io](https://jovin-jijo.github.io)
