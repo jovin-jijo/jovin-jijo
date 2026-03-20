@@ -1,16 +1,14 @@
-## Hi there 👋
+# Jovin Jijo
 
-<!--
-**jovin-jijo/jovin-jijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 14-year-old building projects, researching what interests me, and teaching myself everything along the way.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Building**
+- InfraGhost — mining NASA infrared data to find unclassified transients
+- [Manna](https://jovin-jijo.github.io/manna) — a daily devotional app
+
+---
+
+**Stack**
+Python · JavaScript · HTML/CSS · C++ · Swift
