@@ -11,4 +11,5 @@ I am a 14-year-old building projects, researching what interests me, and teachin
 ---
 
 **Stack**
+
 Python · JavaScript · HTML/CSS · C++ · Swift
