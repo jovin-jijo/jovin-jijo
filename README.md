@@ -6,7 +6,7 @@ I am a 14-year-old building projects, researching what interests me, and teachin
 
 **Building**
 - InfraGhost — mining NASA infrared data to find unclassified transients
-- [Manna](https://jovin-jijo.github.io/manna) — a daily devotional app
+- [Manna](https://jovin-jijo.github.io/manna) — A daily devotional app. One verse every morning.
 
 ---
 
