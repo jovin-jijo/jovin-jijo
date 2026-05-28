@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Jovin! 👋
 
-<!--
-**jovin-jijo/jovin-jijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a high school student interested in software development, robotics, and engineering. After completing AP Computer Science Principles, I am now focusing on building a deeper foundation in programming and system design.
 
-Here are some ideas to get you started:
+## Current Focus & Tech Stack
+- **Learning:** Python, Git, and GitHub workflows
+- **Interests:** Data structures, algorithms, and computer architecture
+- **Tools:** Autodesk Fusion 360 (CAD)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Goals
+- Building a consistent, daily coding habit through LeetCode problems.
+- Exploring open-source software contributions.
+- Documenting my learning journey as I gain more experience.
