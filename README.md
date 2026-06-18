@@ -8,6 +8,6 @@ I am a high school student interested in software development, robotics, and eng
 - **Tools:** Autodesk Fusion 360 (CAD)
 
 ## My Goals
-- Building a consistent, daily coding habit through LeetCode problems.
+- Building a consistent, daily coding habit.
 - Exploring open-source software contributions.
 - Documenting my learning journey as I gain more experience.
